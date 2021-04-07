@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saurabh
-- 👀 I’m interested in Java, Go-lang, cloud architecture, serverless architecture, DDD
+- 👀 I’m interested in Java, Go-lang, Nodejs, cloud architecture, serverless architecture, DDD
 - 🌱 I’m currently learning go-lang
 - 💞️ I’m looking to collaborate on DDD and go-lang
 - 📫 How to reach me at: skumar.saurabh@gmail.com
